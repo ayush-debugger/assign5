@@ -1,0 +1,16 @@
+Student_ID,CGPA,Attendance,Coding_Score,Projects,Internship,Placed
+S001,8.7,92,88,3,Yes,Yes
+S002,7.9,85,76,2,No,Yes
+S003,6.8,72,61,1,No,No
+S004,9.1,95,94,4,Yes,Yes
+S005,7.2,78,65,1,No,No
+S006,8.4,89,82,3,Yes,Yes
+S007,6.5,68,55,1,No,No
+S008,8.9,94,91,4,Yes,Yes
+S009,7.6,81,70,2,No,Yes
+S010,7.0,75,58,1,No,No
+S011,8.2,87,79,2,Yes,Yes
+S012,9.3,96,97,5,Yes,Yes
+S013,6.9,70,63,1,No,No
+S014,8.0,84,74,2,Yes,Yes
+S015,7.4,79,67,2,No,No
